@@ -1,0 +1,13 @@
+[
+    { "id": 1, "name": "Product A", "description": "Description of Product A Awesome" },
+    { "id": 2, "name": "Product B", "description": "Description of Product B Nice" },
+    { "id": 3, "name": "Product C", "description": "Description of Product C Beautiful" },
+    { "id": 4, "name": "Product D", "description": "Description of Product D Wow" },
+    { "id": 5, "name": "Product E", "description": "Description of Product E Awesome" },
+    { "id": 6, "name": "Product F", "description": "Description of Product F Nice" },
+    { "id": 7, "name": "Product G", "description": "Description of Product G Beautiful" },
+    { "id": 8, "name": "Product H", "description": "Description of Product H Awesome" },
+    { "id": 9, "name": "Product I", "description": "Description of Product I Fine" },
+    { "id": 10, "name": "Product J", "description": "Description of Product J Wow" }
+  ]
+  
