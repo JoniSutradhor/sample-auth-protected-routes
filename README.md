@@ -53,3 +53,9 @@ MongoDB is used as the database for this project. The MongoDB service is configu
 
 # Docker Compose
 The docker-compose.yml file sets up the backend, frontend, and MongoDB services
+
+## Run projects without docker
+- Please make sure the MongoDB is running on the above mentioned configuration
+- Run ```npm install``` and then ```npm start``` for both (backend and frontend)
+- http://localhost:3000/ is the backend
+- http://localhost:3001/ for frontend

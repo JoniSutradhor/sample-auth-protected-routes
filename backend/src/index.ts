@@ -15,7 +15,7 @@ app.use(logger);
 
 
 app.get('/', (req, res) => {
-  res.send('Hello, world!');
+  res.send('Health Check Passed!');
 });
 
 mongoose.connect(mongoUrl).then(() => {
